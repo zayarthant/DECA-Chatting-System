@@ -15,7 +15,6 @@
 		<link rel="stylesheet" href="css/w3.css"/>
 		<link rel="stylesheet" href="css/main.css"/>
 		<link rel="shortcut icon" href="icon.png"/>
-		<script src="js/login.js"></script>
 	</head>
 	<body class="w3-container w3-center">
 		<h4 class="w3-padding-hor-32">
